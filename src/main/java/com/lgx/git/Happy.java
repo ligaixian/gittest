@@ -7,5 +7,8 @@ public class Happy {
 		
 		System.out.println("left'''");
 		System.out.println("测试hot_fix");
+		
+		
+		System.out.println("MLGB");
 	}
 }
